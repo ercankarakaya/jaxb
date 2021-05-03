@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<user>
+    <id>1</id>
+    <name>Ercan</name>
+    <username>ercankarakaya</username>
+    <password>4321</password>
+    <job>
+        <name>Computer Engineer</name>
+        <departmen>Engineer</departmen>
+    </job>
+</user>
