@@ -10,7 +10,7 @@ import javax.xml.bind.Marshaller;
 public class PojoToXmlApp {
     public static void main(String[] args) {
 
-        User user = new User(1,"Ercan","ercankarakaya","4321");
+        User user = new User(1,"Ercan","ercankarakaya","43210");
         Job job = new Job("Computer Engineer", "Engineer");
         user.setJob(job);
 
