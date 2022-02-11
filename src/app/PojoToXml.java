@@ -7,7 +7,7 @@ import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 
-public class PojoToXmlApp {
+public class PojoToXml {
     public static void main(String[] args) {
 
         User user = new User(1,"Ercan","ercankarakaya","4321");
